@@ -16,7 +16,7 @@
 
 ## (1) Device GPS Properties
 PRODUCT_COPY_FILES += \
-    device/htc/common/system/etc/gps.conf:system/etc/gps.conf
+    device/htc/inc/prebuilt/etc/gps.conf:system/etc/gps.conf
 
 PRODUCT_COPY_FILES += \
     device/htc/inc/prebuilt/root/init.inc.rc:root/init.inc.rc \
